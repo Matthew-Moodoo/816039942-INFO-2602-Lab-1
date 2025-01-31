@@ -1,0 +1,667 @@
+[
+ {
+   "timestamp": "1/23/2020 9:41:05",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0001",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:44:47",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0002",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:45:51",
+   "programme": "Computer Science (Major)",
+   "pref": "Chicken",
+   "id": "STD0003",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:46:45",
+   "programme": "Computer Science (Major)",
+   "pref": "Chicken",
+   "id": "STD0004",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:47:45",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0005",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:48:47",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0006",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:49:13",
+   "programme": "Computer Science (Special)",
+   "pref": "Fish",
+   "id": "STD0007",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:49:45",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0008",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:49:49",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0009",
+   "addr": "170.0.244.0"
+ },
+ {
+   "timestamp": "1/23/2020 9:53:04",
+   "programme": "Information Technology (Major)",
+   "pref": "Fish",
+   "id": "STD0010",
+   "addr": "170.246.160.0"
+ },
+ {
+   "timestamp": "1/23/2020 9:53:45",
+   "programme": "Computer Science (Major)",
+   "pref": "Chicken",
+   "id": "STD0011",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:55:14",
+   "programme": "Computer Science (Special)",
+   "pref": "Vegetable",
+   "id": "STD0012",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:56:52",
+   "programme": "Computer Science (Special)",
+   "pref": "Vegetable",
+   "id": "STD0013",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:58:03",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0014",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:58:03",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0015",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 9:58:50",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0016",
+   "addr": "170.82.208.0"
+ },
+ {
+   "timestamp": "1/23/2020 9:59:40",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0017",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 10:03:17",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0018",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 10:04:23",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0019",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 10:04:48",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0020",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 10:07:12",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0021",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 10:08:59",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0022",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 10:18:25",
+   "programme": "Computer Science (Special)",
+   "pref": "Fish",
+   "id": "STD0023",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 10:22:52",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0024",
+   "addr": "170.82.216.0"
+ },
+ {
+   "timestamp": "1/23/2020 10:24:35",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0025",
+   "addr": "170.84.8.0"
+ },
+ {
+   "timestamp": "1/23/2020 10:26:40",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0026",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 10:28:18",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0027",
+   "addr": "179.0.28.0"
+ },
+ {
+   "timestamp": "1/23/2020 10:37:06",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0028",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 10:48:08",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0029",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 10:50:36",
+   "programme": "Computer Science (Special)",
+   "pref": "Vegetable",
+   "id": "STD0030",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 10:59:53",
+   "programme": "Information Technology (Special)",
+   "pref": "Vegetable",
+   "id": "STD0031",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 11:07:47",
+   "programme": "Information Technology (Special)",
+   "pref": "Vegetable",
+   "id": "STD0032",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 11:14:18",
+   "programme": "Information Technology (Major)",
+   "pref": "Vegetable",
+   "id": "STD0033",
+   "addr": "179.60.212.0"
+ },
+ {
+   "timestamp": "1/23/2020 11:21:53",
+   "programme": "Information Technology (Special)",
+   "pref": "Fish",
+   "id": "STD0034",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 12:25:32",
+   "programme": "Computer Science (Major)",
+   "pref": "Chicken",
+   "id": "STD0035",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 13:59:50",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0036",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 14:26:54",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0037",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/23/2020 17:26:28",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0038",
+   "addr": "170.0.244.12"
+ },
+ {
+   "timestamp": "1/23/2020 18:39:50",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0039",
+   "addr": "170.0.244.13"
+ },
+ {
+   "timestamp": "1/23/2020 19:08:43",
+   "programme": "I.T. Major, Management & Communications Minor (Can only make it to Friday's labs)",
+   "pref": "Chicken",
+   "id": "STD0040",
+   "addr": "168.195.120.0"
+ },
+ {
+   "timestamp": "1/23/2020 19:32:55",
+   "programme": "Lingustics",
+   "pref": "Vegetable",
+   "id": "STD0041",
+   "addr": "170.0.244.11"
+ },
+ {
+   "timestamp": "1/23/2020 19:37:23",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0042",
+   "addr": "181.118.32.0"
+ },
+ {
+   "timestamp": "1/23/2020 19:38:59",
+   "programme": "Information Technology (Major)",
+   "pref": "Fish",
+   "id": "STD0043",
+   "addr": "181.188.0.0"
+ },
+ {
+   "timestamp": "1/23/2020 19:39:24",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0044",
+   "addr": "170.0.244.0"
+ },
+ {
+   "timestamp": "1/23/2020 19:41:50",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0045",
+   "addr": "186.44.0.0"
+ },
+ {
+   "timestamp": "1/23/2020 19:46:09",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0046",
+   "addr": "170.0.244.1"
+ },
+ {
+   "timestamp": "1/23/2020 19:49:43",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0047",
+   "addr": "186.96.208.0"
+ },
+ {
+   "timestamp": "1/23/2020 19:57:47",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0048",
+   "addr": "190.213.128.0"
+ },
+ {
+   "timestamp": "1/23/2020 20:47:16",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0049",
+   "addr": "170.0.244.14"
+ },
+ {
+   "timestamp": "1/23/2020 20:50:45",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0050",
+   "addr": "190.213.64.0"
+ },
+ {
+   "timestamp": "1/23/2020 21:10:09",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0051",
+   "addr": "170.0.244.15"
+ },
+ {
+   "timestamp": "1/23/2020 21:12:59",
+   "programme": "Computer Science (Major)",
+   "pref": "Chicken",
+   "id": "STD0052",
+   "addr": "170.0.244.0"
+ },
+ {
+   "timestamp": "1/23/2020 22:49:38",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0053",
+   "addr": "45.185.20.0"
+ },
+ {
+   "timestamp": "1/23/2020 22:52:41",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0054",
+   "addr": "190.213.0.0"
+ },
+ {
+   "timestamp": "1/24/2020 9:32:26",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0055",
+   "addr": "120.0.244.2"
+ },
+ {
+   "timestamp": "1/24/2020 10:52:21",
+   "programme": "Computer Science (Major)",
+   "pref": "Chicken",
+   "id": "STD0056",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/24/2020 11:06:14",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0057",
+   "addr": "150.0.244.3"
+ },
+ {
+   "timestamp": "1/24/2020 15:20:42",
+   "programme": "Computer Science (Major)",
+   "pref": "Chicken",
+   "id": "STD0058",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/24/2020 15:26:19",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0059",
+   "addr": "170.0.244.4"
+ },
+ {
+   "timestamp": "1/24/2020 16:05:01",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0060",
+   "addr": "190.58.0.2"
+ },
+ {
+   "timestamp": "1/24/2020 16:31:27",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0061",
+   "addr": "190.59.0.23"
+ },
+ {
+   "timestamp": "1/24/2020 20:21:13",
+   "programme": "Computer Science (Special)",
+   "pref": "Fish",
+   "id": "STD0062",
+   "addr": "45.234.164.65"
+ },
+ {
+   "timestamp": "1/24/2020 21:29:09",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0063",
+   "addr": "168.195.120.0"
+ },
+ {
+   "timestamp": "1/25/2020 10:17:57",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0064",
+   "addr": "190.6.224.0"
+ },
+ {
+   "timestamp": "1/25/2020 13:01:57",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0065",
+   "addr": "190.83.128.0"
+ },
+ {
+   "timestamp": "1/25/2020 19:23:43",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0066",
+   "addr": "45.237.88.23"
+ },
+ {
+   "timestamp": "1/25/2020 21:37:47",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0067",
+   "addr": "64.28.128.3"
+ },
+ {
+   "timestamp": "1/26/2020 9:36:24",
+   "programme": "Computer Science (Major)",
+   "pref": "Fish",
+   "id": "STD0068",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "1/26/2020 11:06:12",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0069",
+   "addr": "131.100.36.24"
+ },
+ {
+   "timestamp": "1/26/2020 21:47:53",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0070",
+   "addr": "190.93.64.0"
+ },
+ {
+   "timestamp": "1/26/2020 22:39:16",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0071",
+   "addr": "131.100.160.31"
+ },
+ {
+   "timestamp": "1/27/2020 10:52:22",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0072",
+   "addr": "168.195.120.1"
+ },
+ {
+   "timestamp": "1/27/2020 22:09:40",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0073",
+   "addr": "190.93.0.0"
+ },
+ {
+   "timestamp": "1/29/2020 6:18:23",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0074",
+   "addr": "131.221.28.10"
+ },
+ {
+   "timestamp": "1/29/2020 11:38:11",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0075",
+   "addr": "190.97.96.0"
+ },
+ {
+   "timestamp": "1/30/2020 10:09:23",
+   "programme": "Computer Science (Special)",
+   "pref": "Vegetable",
+   "id": "STD0076",
+   "addr": "131.72.76.20"
+ },
+ {
+   "timestamp": "1/30/2020 17:10:29",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0077",
+   "addr": "190.59.0.24"
+ },
+ {
+   "timestamp": "1/30/2020 19:42:17",
+   "programme": "Major:Mathematics ",
+   "pref": "Chicken",
+   "id": "STD0078",
+   "addr": "170.0.244.12"
+ },
+ {
+   "timestamp": "1/30/2020 21:32:08",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0079",
+   "addr": "190.59.0.233"
+ },
+ {
+   "timestamp": "1/31/2020 7:01:41",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0080",
+   "addr": "138.59.24.34"
+ },
+ {
+   "timestamp": "1/31/2020 10:01:21",
+   "programme": "Computer Science (Special)",
+   "pref": "Fish",
+   "id": "STD0081",
+   "addr": "138.94.240.22"
+ },
+ {
+   "timestamp": "1/31/2020 10:07:10",
+   "programme": "Computer Science (Special)",
+   "pref": "Vegetable",
+   "id": "STD0082",
+   "addr": "143.0.172.1"
+ },
+ {
+   "timestamp": "1/31/2020 11:35:05",
+   "programme": "Information Technology (Special)",
+   "pref": "Fish",
+   "id": "STD0083",
+   "addr": "168.195.120.2"
+ },
+ {
+   "timestamp": "1/31/2020 15:30:22",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0084",
+   "addr": "168.195.120.3"
+ },
+ {
+   "timestamp": "2/2/2020 7:11:53",
+   "programme": "Computer Science (Major)",
+   "pref": "Vegetable",
+   "id": "STD0085",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "2/3/2020 12:10:44",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0086",
+   "addr": "168.195.120.4"
+ },
+ {
+   "timestamp": "2/4/2020 7:57:23",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0087",
+   "addr": "190.59.0.344"
+ },
+ {
+   "timestamp": "2/4/2020 8:01:34",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0088",
+   "addr": "143.137.192.2"
+ },
+ {
+   "timestamp": "2/5/2020 17:16:38",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0089",
+   "addr": "161.0.112.23"
+ },
+ {
+   "timestamp": "2/6/2020 9:00:47",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0090",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "2/7/2020 15:54:28",
+   "programme": "Information Technology (Special)",
+   "pref": "Chicken",
+   "id": "STD0091",
+   "addr": "170.0.244.10"
+ },
+ {
+   "timestamp": "2/8/2020 15:06:09",
+   "programme": "Computer Science (Major)",
+   "pref": "Chicken",
+   "id": "STD0092",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "2/9/2020 23:05:52",
+   "programme": "Computer Science (Major)",
+   "pref": "Chicken",
+   "id": "STD0093",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "2/10/2020 13:38:59",
+   "programme": "Information Technology (Major)",
+   "pref": "Chicken",
+   "id": "STD0094",
+   "addr": "64.28.139.240"
+ },
+ {
+   "timestamp": "2/12/2020 12:14:25",
+   "programme": "Computer Science (Special)",
+   "pref": "Chicken",
+   "id": "STD0095",
+   "addr": "161.0.224.2"
+ }
+]
