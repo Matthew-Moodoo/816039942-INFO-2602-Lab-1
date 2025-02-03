@@ -57,6 +57,33 @@ def get_counts():
             itspecs += 1
     message = f'Chicken: {chickencount}  Fish: {fishcount}  Vegetable: {vegcount}  Computer Science (Major): {compscimajors}  Computer Science (Special): {compscispecs}  Information Technology (Major): {itmajors}  Information Technology (Special): {itmajors}'
     return jsonify(message)
+
+#Exercise 2
+#-----------------------------------
+
+@app.route('/add/<int:a>/<int:b>')
+def add_nums(a, b):
+    sum = a + b
+    message = f'The sum of {a} and {b} is {sum}.'
+    return jsonify(message)
+
+@app.route('/subtract/<int:a>/<int:b>')
+def subtract_nums(a, b):
+    diff = a - b
+    message = f'The difference of {a} and {b} is {diff}.'
+    return jsonify(message)
+
+@app.route('/multiply/<int:a>/<int:b>')
+def multiply_nums(a, b):
+    product = a * b
+    message = f'The product of {a} and {b} is {product}.'
+    return jsonify(message)
+
+@app.route('/divide/<int:a>/<int:b>')
+def divide_nums(a, b):
+    quotient = a / b
+    message = f'The quotient of {a} and {b} is {quotient}.'
+    return jsonify(message)
     
 
 app.run(host='0.0.0.0', port=8080, debug=True)
